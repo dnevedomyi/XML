@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Address Type="Bagreport">
+<Address Type="Bag_report">
 <Summary>Login: Error messages in the login form are displayed in English</Summary>
   <Environment>All browsers / devices </Environment>
   <Severity>Major</Severity>
