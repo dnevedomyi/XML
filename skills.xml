@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Address Type="Скилы, которые будут изучены на курсе>
+     <First skils>git init "Создание нового репозитория"</First skils>
+     <Second skils>git clone"Скачивание репозиторий вместе со всей его историей изменений" </Second skils>
+     <Third skils>git status "Просмотр изменений и создание коммитов"</Third skils>
+     <Fourth skils> commit -m "Cообщение с описанием"</Fourth skilsl>
+</Address>
